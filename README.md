@@ -11,6 +11,8 @@ Push your changes to GitHub.
 Files
 See starter code files to help you get started:
 
+https://static.bc-edx.com/data/dl-1-2/m19/lms/starter/Starter_Code.zip
+
 Instructions
 
 Rename the Crypto_Clustering_starter_code.ipynb file as Crypto_Clustering.ipynb.
